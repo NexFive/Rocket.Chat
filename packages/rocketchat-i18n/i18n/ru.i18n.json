@@ -1661,6 +1661,8 @@
   "Your_push_was_sent_to_s_devices": "Ваше push-уведомление было отправлено на % устройств.",
   "User": "Пользователь",
   "Channels_are_where_your_team_communicate": "Каналы, где ваша команда может общаться. ",
+  "Public_Channel": "Общественный канал",
+  "Private_Channel": "Закрытый канал",
   "Just_invited_people_can_access_this_channel": "Только приглашенные люди могут получить доступ к этому каналу",
   "Everyone_can_access_this_channel": "Каждый может получить доступ к этому каналу"
 }
