@@ -1658,5 +1658,6 @@
   "Your_file_has_been_deleted": "Ваш файл был удалён.",
   "Your_mail_was_sent_to_s": "Ваше сообщение было отправлено на %s",
   "Your_password_is_wrong": "Неверный пароль!",
-  "Your_push_was_sent_to_s_devices": "Ваше push-уведомление было отправлено на % устройств."
+  "Your_push_was_sent_to_s_devices": "Ваше push-уведомление было отправлено на % устройств.",
+  "User": "Пользователь"  
 }
