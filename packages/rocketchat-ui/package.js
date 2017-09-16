@@ -94,6 +94,7 @@ Package.onUse(function(api) {
 	api.addFiles('client/views/app/userSearch.html', 'client');
 	api.addFiles('client/views/app/videoCall/videoButtons.html', 'client');
 	api.addFiles('client/views/app/videoCall/videoCall.html', 'client');
+	api.addFiles('client/views/app/popover.html', 'client');
 	api.addFiles('client/views/app/photoswipe.html', 'client');
 
 	api.addFiles('client/views/cmsPage.js', 'client');
