@@ -1696,6 +1696,7 @@
 	align-items: center;
 	flex-flow: row nowrap;
 	flex-shrink: 0;
+	border-bottom: 1px solid #e7e7e7;
 
 	&.visible h2 {
 		overflow: visible;
